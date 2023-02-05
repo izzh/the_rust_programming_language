@@ -4,4 +4,6 @@ members = [
     "guessing_game",
     "chapter_3_1",
     "chapter_3_2",
+    "chapter_3_3",
+    "chapter_3_4",
 ]
